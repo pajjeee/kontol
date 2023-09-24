@@ -1,0 +1,21 @@
+D:\pemograman lanjutan\per3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe.config
+D:\pemograman lanjutan\per3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe
+D:\pemograman lanjutan\per3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.pdb
+D:\pemograman lanjutan\per3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.AssemblyReference.cache
+D:\pemograman lanjutan\per3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Form1.resources
+D:\pemograman lanjutan\per3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Properties.Resources.resources
+D:\pemograman lanjutan\per3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.GenerateResource.cache
+D:\pemograman lanjutan\per3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.CoreCompileInputs.cache
+D:\pemograman lanjutan\per3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.exe
+D:\pemograman lanjutan\per3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.pdb
+D:\pemrog2\pert3\apk_tugas3.2\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe.config
+D:\pemrog2\pert3\apk_tugas3.2\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe
+D:\pemrog2\pert3\apk_tugas3.2\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.pdb
+D:\pemrog2\pert3\apk_tugas3.2\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.AssemblyReference.cache
+D:\pemrog2\pert3\apk_tugas3.2\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.SuggestedBindingRedirects.cache
+D:\pemrog2\pert3\apk_tugas3.2\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Form1.resources
+D:\pemrog2\pert3\apk_tugas3.2\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Properties.Resources.resources
+D:\pemrog2\pert3\apk_tugas3.2\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.GenerateResource.cache
+D:\pemrog2\pert3\apk_tugas3.2\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.CoreCompileInputs.cache
+D:\pemrog2\pert3\apk_tugas3.2\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.exe
+D:\pemrog2\pert3\apk_tugas3.2\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.pdb
